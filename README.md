@@ -28,6 +28,12 @@
 * Criar um job jenkins chamado `PROJECT-DEV-DEPLOY` que versiona o projeto e publica em repositório local
 * Criar um commit com uma cópia do arquivo do job jenkins, `config.xml`, armazenada em `src/jenkins/jobs/project-dev-deploy`
 
+### Alternativas 
+#### Para os desafios `exercism.io`
+* Criar commit de uma classe implemente um dos tópicos dos exames da certificação Java Programmer (1Z0-808 ou 1Z0-809)
+#### Para uso de repositório git no github
+* Fazer os commits em repositório local e entregar a pasta completa, incluindo subpasta .git, na atividade do classroom
+
 ## Entrega
 > Importante: cada aluno deve fazer a entrega em sua própria conta 
 
