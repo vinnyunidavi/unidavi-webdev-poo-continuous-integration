@@ -9,11 +9,11 @@
 * Criar projeto git com nome `unidavi-webdev-poo-continuous-integration` na conta do aluno no github 
 * Criar um commit com classe App contendo o método main e projeto maven com configuração mínima
 * Copiar para esse projeto a classe de testes automatizados de 1 dos seguintes de desafios do `exercism.io`:
-   ** http://exercism.io/exercises/java/book-store/readme
-   ** http://exercism.io/exercises/java/word-count/test-suite
-   ** http://exercism.io/exercises/java/wordy/test-suite
-   ** http://exercism.io/exercises/java/bank-account/test-suite
-   ** http://exercism.io/exercises/java/change/readme
+  * http://exercism.io/exercises/java/book-store/readme
+  * http://exercism.io/exercises/java/word-count/test-suite
+  * http://exercism.io/exercises/java/wordy/test-suite
+  * http://exercism.io/exercises/java/bank-account/test-suite
+  * http://exercism.io/exercises/java/change/readme
 * Criar um commit com a classe de testes automatizadas compilando mas com todos os testes ignorados
 * Criar um commit com 2 testes automatizando passando
 * Criar um commit com propriedade configurada para encoding UTF8 em código fonte e relatórios (`build.sourceEncoding`, `report.outputEncoding`)
